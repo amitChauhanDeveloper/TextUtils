@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-js--CodeWithAmit/static/css/main.2784506f.css",
+    "main.js": "/React-js--CodeWithAmit/static/js/main.da8f11f5.js",
+    "static/js/787.86a42e16.chunk.js": "/React-js--CodeWithAmit/static/js/787.86a42e16.chunk.js",
+    "index.html": "/React-js--CodeWithAmit/index.html",
+    "main.2784506f.css.map": "/React-js--CodeWithAmit/static/css/main.2784506f.css.map",
+    "main.da8f11f5.js.map": "/React-js--CodeWithAmit/static/js/main.da8f11f5.js.map",
+    "787.86a42e16.chunk.js.map": "/React-js--CodeWithAmit/static/js/787.86a42e16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.da8f11f5.js"
+  ]
+}
