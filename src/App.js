@@ -26,9 +26,12 @@ function App() {
     document.body.classList.remove('bg-warning')
     document.body.classList.remove('bg-danger')
     document.body.classList.remove('bg-success')
+    document.body.classList.remove('bg-primary')
+    document.body.classList.remove('bg-white')
+    document.body.classList.remove('bg-dark')
   } */
 
-  const toggleMode = (cls) => {
+  const toggleMode = () => {
     /* removeBodyClasses();
     console.log(cls)
     document.body.classList.add('bg-' + cls) */
