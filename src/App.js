@@ -37,7 +37,7 @@ function App() {
   return (
     <>
     <BrowserRouter>
-    <Navbar title="My App" mode={mode} toggleMode={toggleMode} />
+    <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode} />
         <Alert alert={alert} />
         {/* <div className="container my-3">
         <TextForm showAlert={showAlert} heading="Enter the text to analyse below"
